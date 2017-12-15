@@ -131,7 +131,7 @@ header {
   top: 0;
   left: 0;
   width: 100%;
-  background: white;
+  background-color: white;
   z-index: 1;
 }
 
